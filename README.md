@@ -1,4 +1,4 @@
-# Deep Learning Course Repository
+# Deep Learning Course Repository 
 
 This repository contains materials and assignments for the Deep Learning course. Below is an outline of the key topics covered in the course:
 
