@@ -2,7 +2,7 @@
 
 This repository contains materials and assignments for the Deep Learning course. Below is an outline of the key topics covered in the course:
 
-## 1. Introduction to Machine Learning
+## 1. (Introduction to Machine Learning)[https://github.com/MoTa2380/Deep-Learning-Course/blob/main/slides/(02)%20-%20Machine%20Learning%20Basics%20-%202023.pdf]
 The course begins with an overview of machine learning, explaining the different types:
 - **Supervised Learning**
 - **Unsupervised Learning**
